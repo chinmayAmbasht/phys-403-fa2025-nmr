@@ -1,0 +1,43 @@
+SpinCore Nutation Curve & 90 Degree Pulse-Width Finder Experiment
+Number of Acquisition Points: 2048.0
+Spectrometer Frequency (MHz): 29.9045
+Spectral Width (kHz): 300.00
+Blanking Bit: 2.0
+Blanking Delay (us): 3000.0
+Transient Delay (us): 15.0
+Repetition Delay (s): 0.5
+Number of Scans per pulse-width: 52.0
+Output Pulse Phase (Degrees): 0.00
+ADC Frequency (MHz): 75.0
+Output Amplitude Scaling: 1.0
+BYPASS FIR: Yes
+Two-Pulse Echo Regime: Yes
+CYCLOPS: No
+Pulse Shape: Hard
+Starting Pulse Width (us): 0.50
+Final Pulse Width (us): 2.50
+Step Pulse-Width (us): 0.10
+Waiting Period Tau (us): 1000.00
+ 
+Pulse-Width (us), Echo Amplitude
+0.50, 1666635.5020
+0.60, 2920735.4445
+0.70, 4270845.0154
+0.80, 5600335.7789
+0.90, 6914449.7923
+1.00, 7828664.8721
+1.10, 8226567.0936
+1.20, 8169981.9686
+1.30, 7507833.3604
+1.40, 6710970.7602
+1.50, 5551341.0479
+1.60, 4507705.9460
+1.70, 3386354.9851
+1.80, 2708863.7280
+1.90, 1951983.0287
+2.00, 1506541.9804
+2.10, 1140419.4507
+2.20, 1451342.3293
+2.30, 1927947.6197
+2.40, 2639743.7094
+2.50, 3461073.0488
